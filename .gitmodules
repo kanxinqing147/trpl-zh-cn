@@ -1,0 +1,3 @@
+[submodule "src/CUDA-Programming-Guide-in-Chinese"]
+	path = src/CUDA-Programming-Guide-in-Chinese
+	url = https://github.com/HeKun-NVIDIA/CUDA-Programming-Guide-in-Chinese.git
